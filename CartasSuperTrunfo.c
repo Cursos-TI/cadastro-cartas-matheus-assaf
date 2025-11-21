@@ -41,10 +41,10 @@ int main() {
     printf("insira as informacoes da carta 2 a seguir: \n\n"); // informações da carta 2 inserida pelo usuario
 
     printf("Digite a letra do estado: \n");
-    scanf("%s",&estado2);
+    scanf("%s",estado2);
 
     printf("Digite a letra do estado mais um numero de 01 a 04: \n");
-    scanf("%s",&codigo2);
+    scanf("%s",codigo2);
 
     printf("Digite o nome da cidade: \n");
     getchar();
