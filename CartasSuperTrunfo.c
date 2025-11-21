@@ -17,10 +17,10 @@ int main() {
     printf("insira as informacoes da carta 1 a seguir: \n\n"); // informações da carta 1 inserida pelo usuario
 
     printf("Digite a letra do estado, podendo ser de 'A ate H': \n");
-    scanf("%s", &estado1);
+    scanf("%s", estado1);
 
     printf("Digite a letra do estado anteriomente mais um numero de '01 a 04': \n");
-    scanf("%s",&codigo1);
+    scanf("%s",codigo1);
 
     printf("Digite o nome da cidade: \n");
     getchar();
