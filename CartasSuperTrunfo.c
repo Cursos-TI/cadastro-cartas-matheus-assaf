@@ -8,7 +8,8 @@
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
- char estado1[3], estado2[3],codigo1[6],codigo2[6],cidade1[20],cidade2[20]; // Variaveis do tipo char 
+ char estado1, estado2
+ char,codigo1[6],codigo2[6],cidade1[20],cidade2[20]; // Variaveis do tipo char 
  int populacao1,populacao2,p_turistico1,p_turistico2; // variaveis do tipo inteiro
  float area1,area2,pib1,pib2; // variveis do tipo float
 
